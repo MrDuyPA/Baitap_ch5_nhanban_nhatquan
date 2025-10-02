@@ -12,3 +12,9 @@ Add new entry :
 ![First](cau1them.png)
 
 ## Cau 2:: What is the name of the log file and the position?
+
++------------------+----------+--------------+------------------+-------------------+
+| File | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
++------------------+----------+--------------+------------------+-------------------+
+| mysql-bin.000272 | 897 | petdatabase | | |
++------------------+----------+--------------+------------------+-------------------+
